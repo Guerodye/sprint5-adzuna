@@ -1,0 +1,16 @@
+{
+  "name": "sprint5-adzuna",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "postcss styles.css -o ./public/app.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^10.3.1",
+    "tailwindcss": "^2.2.4"
+  }
+}
